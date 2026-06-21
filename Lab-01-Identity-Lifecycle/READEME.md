@@ -1,46 +1,146 @@
-# Identity Lifecycle Management Lab
+# Lab 01 - Identity Lifecycle Management for Caban Technologies
+
+## Company
+
+**Caban Technologies**
+
+Departments:
+
+* Human Resources (HR)
+* Finance
+* Information Technology (IT)
+* Operations
+
+---
 
 ## Objective
 
-Design a Joiner, Mover, Leaver process for a fictional company.
+Demonstrate identity lifecycle management and Role-Based Access Control (RBAC) concepts using Microsoft Entra ID.
 
-## Scenario
+This lab focuses on user provisioning, security group management, department-based access assignment, and identity governance fundamentals.
 
-Company: Contoso Manufacturing
+---
 
-Departments:
-- HR
-- Finance
-- IT
-- Operations
+## Environment
 
-## Joiner Process
+### Platform
 
-1. Create user account
-2. Assign department
-3. Assign security groups
-4. Enable MFA
-5. Assign license
-6. Verify access
+* Microsoft Entra ID
+* Azure Portal
 
-## Mover Process
+### Security Controls
 
-1. Remove old permissions
-2. Add new permissions
-3. Validate least privilege
+* Multi-Factor Authentication (MFA)
+* Security Groups
+* Role-Based Access Control (RBAC)
 
-## Leaver Process
+---
 
-1. Disable account
-2. Revoke sessions
-3. Remove group memberships
-4. Archive mailbox
-5. Document termination
+## Tasks Completed
 
-## IAM Concepts
+### User Provisioning
 
-- RBAC
-- Least Privilege
-- MFA
-- Identity Governance
-- Access Reviews
+Created the following users:
+
+| User        | Department |
+| ----------- | ---------- |
+| John Smith  | HR         |
+| Jane Davis  | Finance    |
+| Mike Wilson | IT         |
+
+### Security Group Creation
+
+Created the following security groups:
+
+| Group Name    |
+| ------------- |
+| HR-Users      |
+| Finance-Users |
+| IT-Admins     |
+
+### Group Membership Assignment
+
+Assigned users to the appropriate security groups:
+
+| User        | Group         |
+| ----------- | ------------- |
+| John Smith  | HR-Users      |
+| Jane Davis  | Finance-Users |
+| Mike Wilson | IT-Admins     |
+
+---
+
+## IAM Concepts Demonstrated
+
+### Identity Provisioning
+
+Created and configured new user accounts within Microsoft Entra ID.
+
+### Security Group Administration
+
+Created security groups to organize users based on job function and department.
+
+### Role-Based Access Control (RBAC)
+
+Implemented group-based access management to support least-privilege security practices.
+
+### Identity Lifecycle Management
+
+Simulated the onboarding process for new employees by assigning departments and group memberships.
+
+### Multi-Factor Authentication (MFA)
+
+Configured MFA for administrative access to improve account security.
+
+---
+
+## Business Scenario
+
+Caban Technologies requires a standardized onboarding process for new employees.
+
+The identity team is responsible for:
+
+1. Creating user accounts.
+2. Assigning department attributes.
+3. Assigning users to appropriate security groups.
+4. Enforcing MFA requirements.
+5. Maintaining least-privilege access principles.
+
+This lab simulates the initial onboarding phase of that process.
+
+---
+
+## Evidence
+
+### Users Created
+
+![Users](users.png)
+
+### Security Groups
+
+![Groups](groups.png)
+
+### HR Group Membership
+
+![HR Membership](hr-members.png)
+
+### Finance Group Membership
+
+![Finance Membership](finance-members.png)
+
+### IT Group Membership
+
+![IT Membership](it-members.png)
+
+---
+
+## Skills Developed
+
+* Microsoft Entra ID Administration
+* User Provisioning
+* Security Group Management
+* Identity Lifecycle Management
+* RBAC Fundamentals
+* MFA Administration
+* Access Management
+* IAM Documentation
