@@ -15,9 +15,11 @@ Departments:
 
 ## Objective
 
-Demonstrate identity lifecycle management and Role-Based Access Control (RBAC) concepts using Microsoft Entra ID.
+## Objective
 
-This lab focuses on user provisioning, security group management, department-based access assignment, and identity governance fundamentals.
+Demonstrate identity lifecycle management fundamentals using Microsoft Entra ID.
+
+This lab focuses on user provisioning, security group management, department-based user organization, and identity governance fundamentals.
 
 ---
 
