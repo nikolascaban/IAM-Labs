@@ -4,7 +4,7 @@
 
 This lab demonstrates Role-Based Access Control (RBAC) and delegated administration within Microsoft Entra ID.
 
-A fictional organization, **Caban Technologies**, requires different administrative permissions for employees based on their job responsibilities. Administrative roles were assigned according to the principle of least privilege, ensuring users receive only the access necessary to perform their duties.
+**Caban Technologies**, requires different administrative permissions for employees based on their job responsibilities. Administrative roles were assigned according to the principle of least privilege, ensuring users receive only the access necessary to perform their duties.
 
 ---
 
