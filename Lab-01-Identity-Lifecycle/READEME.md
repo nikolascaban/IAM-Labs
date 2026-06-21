@@ -9,7 +9,6 @@ Departments:
 * Human Resources (HR)
 * Finance
 * Information Technology (IT)
-* Operations
 
 ---
 
