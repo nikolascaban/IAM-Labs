@@ -103,7 +103,7 @@ This lab demonstrates a structured deprovisioning process that follows security 
 ## Evidence
 
 ### User Overview Before Offboarding
-![User Overview](thomas-user-overview.png)
+![User Overview](user-overview.png)
 
 ### Administrative Role Before Offboarding
 ![Role Before](thomas-role-before.png)
