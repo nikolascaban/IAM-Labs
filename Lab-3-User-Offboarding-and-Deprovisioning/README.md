@@ -23,7 +23,7 @@ This lab focuses on the principle of least privilege and proper access removal p
 
 ## Business Scenario
 
-Thomas Franz is departing Caban Technologies.
+Thomas Franz is leaving Caban Technologies.
 
 As part of the organization's offboarding policy, the IAM team must ensure that all access is removed before separation is completed. This includes revoking administrative privileges, removing group memberships, and disabling the user account to prevent future access.
 
