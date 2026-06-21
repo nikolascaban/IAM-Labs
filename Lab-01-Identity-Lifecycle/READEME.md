@@ -104,7 +104,7 @@ The identity team is responsible for:
 1. Creating user accounts.
 2. Assigning department attributes.
 3. Assigning users to appropriate security groups.
-4. Enforcing MFA requirements.
+4. Configuring MFA for administrative access.
 5. Maintaining least-privilege access principles.
 
 This lab simulates the initial onboarding phase of that process.
@@ -141,7 +141,7 @@ This lab simulates the initial onboarding phase of that process.
 * User Provisioning
 * Security Group Management
 * Identity Lifecycle Management
-* RBAC Fundamentals
-* MFA Administration
+* RBAC Foundations
+* MFA Configuration
 * Access Management
 * IAM Documentation
