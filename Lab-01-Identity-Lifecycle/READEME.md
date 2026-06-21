@@ -80,9 +80,9 @@ Created and configured new user accounts within Microsoft Entra ID.
 
 Created security groups to organize users based on job function and department.
 
-### Role-Based Access Control (RBAC)
+### Role-Based Access Control Foundations (RBAC)
 
-Implemented group-based access management to support least-privilege security practices.
+Established group structures that can be used to support role-based access control and least-privilege access management.
 
 ### Identity Lifecycle Management
 
