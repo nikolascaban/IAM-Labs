@@ -90,7 +90,7 @@ Simulated the onboarding process for new employees by assigning departments and 
 
 ### Multi-Factor Authentication (MFA)
 
-Configured MFA for administrative access to improve account security.
+Configured Microsoft Authenticator MFA for the Global Administrator account used to manage the lab environment.
 
 ---
 
