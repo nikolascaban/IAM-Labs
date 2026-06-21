@@ -14,8 +14,6 @@ Departments:
 
 ## Objective
 
-## Objective
-
 Demonstrate identity lifecycle management fundamentals using Microsoft Entra ID.
 
 This lab focuses on user provisioning, security group management, department-based user organization, and identity governance fundamentals.
