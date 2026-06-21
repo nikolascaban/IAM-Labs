@@ -23,7 +23,7 @@ This lab demonstrates Role-Based Access Control (RBAC) and delegated administrat
 
 Caban Technologies requires multiple levels of administrative access within its Identity and Access Management (IAM) environment.
 
-Different employees are responsible for different functions, including password management, user administration, security monitoring, and tenant visibility. Rather than granting full administrative access to all personnel, permissions are delegated using built-in Microsoft Entra roles.
+Different employees are responsible for different functions, including password management, user administration, security monitoring, and tenant visibility. Rather than granting full administrative access to all users, permissions are delegated using built-in Microsoft Entra roles.
 
 ---
 
