@@ -65,7 +65,7 @@ This revoked access associated with the security group.
 
 ### Step 4 - Account Disablement
 
-Disabled the Thomas Franz account to prevent future authentication and access to organizational resources.
+Disabled Thomas Franz account to prevent future authentication and access to organizational resources.
 
 ### Step 5 - Verification
 
@@ -81,7 +81,7 @@ Verified that:
 
 Proper user offboarding is a critical IAM function.
 
-Failure to remove administrative privileges and account access can create unnecessary security risks and leave former employees with unauthorized access to organizational resources.
+Failure to remove administrative privileges and account access can create security risks and leave former employees with unauthorized access to organizational resources.
 
 This lab demonstrates a structured deprovisioning process that follows security best practices and supports the principle of least privilege.
 
