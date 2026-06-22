@@ -90,12 +90,12 @@ Connected to Microsoft Entra ID using Microsoft Graph PowerShell and performed u
 ## Certifications
 
 * CompTIA Security+
+* Microsoft Security, Compliance, and Identity Fundamentals (SC-900)
 * Microsoft Azure Fundamentals (AZ-900)
 * Microsoft 365 Fundamentals (MS-900)
 
 ### Currently Pursuing
 
-* ITIL Foundation
 * Microsoft Identity and Access Administrator (SC-300)
 
 ---
