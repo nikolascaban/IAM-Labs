@@ -1,129 +1,204 @@
-# Nikolas Caban IAM Portfolio for Caban Technologies
+# Nikolas Caban Microsoft Entra ID & IAM Portfolio
 
 ## Overview
 
-This repository contains a collection of Identity and Access Management (IAM) projects built within a Microsoft Entra ID lab environment.
+This repository contains hands-on Identity and Access Management (IAM) labs built using Microsoft Entra ID, Microsoft Graph PowerShell, Identity Governance, and Privileged Identity Management (PIM).
 
-The purpose of this portfolio is to demonstrate hands-on experience with user lifecycle management, role-based access control (RBAC), identity governance, and Microsoft Graph PowerShell automation.
-
-While my professional background is primarily in IT support, this portfolio documents practical IAM-focused projects designed to develop skills commonly used by IAM Analysts, Identity Administrators, Access Management Analysts, and IAM Engineers.
+The goal of this portfolio is to demonstrate practical IAM administration, governance, automation, access management, and lifecycle management skills commonly required for IAM Analyst, Identity Governance, and Access Management roles.
 
 ---
 
-## Technical Environment
+## Technologies Used
 
-### Platform
-
-* Microsoft Entra ID (Azure AD)
+* Microsoft Entra ID
 * Microsoft Graph PowerShell
-* PowerShell 5.1
-* Windows 11
-
-### Areas of Focus
-
-* User Provisioning
-* Identity Lifecycle Management
-* Role-Based Access Control (RBAC)
-* User Offboarding
-* Access Reviews
-* Directory Auditing
-* IAM Automation
-* Microsoft Graph Administration
-
----
-
-## Projects
-
-### Lab 1 - Identity Lifecycle Management
-
-Provisioned new users within Microsoft Entra ID and assigned organizational attributes and group memberships.
-
-**Skills Demonstrated**
-
-* User Provisioning
-* Identity Lifecycle Management
-* Group Management
-* Directory Administration
-
----
-
-### Lab 2 - Administrative Roles and RBAC
-
-Created administrative users, assigned Microsoft Entra roles, and implemented role-based access controls.
-
-**Skills Demonstrated**
-
-* Role-Based Access Control (RBAC)
-* Administrative Role Assignment
-* Security Group Management
-* Least Privilege Principles
-
----
-
-### Lab 3 - User Offboarding and Access Deprovisioning
-
-Removed administrative access, revoked group memberships, and disabled accounts to simulate employee separation procedures.
-
-**Skills Demonstrated**
-
-* User Offboarding
-* Access Revocation
-* Account Disablement
+* Conditional Access
+* Multi-Factor Authentication (MFA)
+* Privileged Identity Management (PIM)
 * Identity Governance
+* Access Reviews
+* Entitlement Management
+* Security Groups
+* Administrative Units
+* PowerShell Automation
+* Role-Based Access Control (RBAC)
 
 ---
 
-### Lab 4 - Microsoft Graph Identity Inventory
+# Labs
 
-Connected to Microsoft Entra ID using Microsoft Graph PowerShell and performed user, group, and disabled account inventory operations.
+## Lab 01 – Identity Lifecycle Management
+
+**Objective**
+
+Create and manage user identities within Microsoft Entra ID.
+
+**Skills Demonstrated**
+
+* User provisioning
+* User management
+* Group management
+* Identity administration
+
+---
+
+## Lab 02 – Administrative Roles and RBAC
+
+**Objective**
+
+Implement Role-Based Access Control (RBAC) using Microsoft Entra administrative roles.
+
+**Skills Demonstrated**
+
+* Administrative role assignments
+* Least privilege administration
+* Role management
+* RBAC implementation
+
+---
+
+## Lab 03 – User Offboarding and Deprovisioning
+
+**Objective**
+
+Securely remove user access during employee separation.
+
+**Skills Demonstrated**
+
+* Account deactivation
+* Group membership removal
+* Access revocation
+* Offboarding procedures
+
+---
+
+## Lab 04 – Microsoft Graph Identity Inventory
+
+**Objective**
+
+Use Microsoft Graph PowerShell to inventory users, groups, and identity resources.
 
 **Skills Demonstrated**
 
 * Microsoft Graph PowerShell
-* Directory Auditing
-* Identity Reporting
-* IAM Automation
-* PowerShell Administration
+* Identity reporting
+* User inventory
+* Automation scripting
 
 ---
 
-## Certifications
+## Lab 05 – Automated User Provisioning
 
-* CompTIA Security+
-* Microsoft Security, Compliance, and Identity Fundamentals (SC-900)
-* Microsoft Azure Fundamentals (AZ-900)
-* Microsoft 365 Fundamentals (MS-900)
+**Objective**
 
-### Currently Pursuing
+Automate user creation and onboarding using PowerShell and Microsoft Graph.
 
-* Microsoft Identity and Access Administrator (SC-300)
+**Skills Demonstrated**
 
----
-
-## Professional Background
-
-* 4+ years of IT Support and End User Support experience
-* Active Directory administration
-* Microsoft Intune device management
-* Microsoft 365 support
-* User provisioning and deprovisioning
-* Identity and access management operations
+* Bulk user creation
+* Group assignment
+* Department assignment
+* Automated onboarding
 
 ---
 
-## Future Projects
+## Lab 06 – Conditional Access and MFA
 
-Planned portfolio expansions include:
+**Objective**
 
-* Microsoft Graph User Lifecycle Automation
-* Group Management Automation
-* Access Review Workflows
-* Identity Governance Scenarios
-* License Management Automation
-* IAM Reporting and Auditing Scripts
+Implement Conditional Access policies to secure organizational resources.
+
+**Skills Demonstrated**
+
+* Conditional Access
+* Multi-Factor Authentication (MFA)
+* Security policy implementation
+* Risk reduction controls
 
 ---
 
-## Objective
+## Lab 07 – Privileged Identity Management (PIM)
 
-The goal of this portfolio is to document my transition from IT Support into Identity and Access Management while building practical experience with modern IAM technologies and automation tools.
+**Objective**
+
+Implement Just-In-Time (JIT) administrative access using Microsoft Entra PIM.
+
+**Skills Demonstrated**
+
+* Privileged Identity Management
+* Eligible role assignments
+* Role activation
+* Administrative access governance
+
+---
+
+## Lab 08 – Access Reviews
+
+**Objective**
+
+Perform periodic access reviews to validate user access.
+
+**Skills Demonstrated**
+
+* Access Reviews
+* Identity Governance
+* Access certification
+* Governance controls
+
+---
+
+## Lab 09 – Entitlement Management
+
+**Objective**
+
+Implement access packages and approval workflows using Microsoft Entra Identity Governance.
+
+**Skills Demonstrated**
+
+* Entitlement Management
+* Access Packages
+* Approval Workflows
+* Access Request Governance
+
+---
+
+## Lab 10 – JML Lifecycle Automation
+
+**Objective**
+
+Automate Joiner, Mover, and Leaver (JML) identity lifecycle processes using Microsoft Graph PowerShell.
+
+**Skills Demonstrated**
+
+* User provisioning
+* Department transfers
+* Access modifications
+* User offboarding
+* PowerShell automation
+* Identity lifecycle management
+
+---
+
+# Key IAM Competencies Demonstrated
+
+* Identity Administration
+* Access Governance
+* Identity Lifecycle Management
+* Role-Based Access Control (RBAC)
+* Privileged Access Management (PAM)
+* Identity Governance and Administration (IGA)
+* Conditional Access
+* Multi-Factor Authentication (MFA)
+* Microsoft Graph PowerShell
+* PowerShell Automation
+* Entitlement Management
+* Access Reviews
+* User Provisioning and Deprovisioning
+
+---
+
+# Portfolio Outcome
+
+This portfolio demonstrates practical experience administering Microsoft Entra ID environments, implementing governance controls, managing privileged access, automating identity lifecycle processes, and securing user access through modern IAM practices.
+
+The labs collectively simulate common responsibilities performed by IAM Analysts, Identity Governance Administrators, and Identity Access Management Engineers in enterprise environments.
